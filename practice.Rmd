@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "Author"
+title: "HW3:Git Practice by YM(Cathy)"
+author: "Yinuo (Cathy) Meng"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 output: 
   html_document: 
